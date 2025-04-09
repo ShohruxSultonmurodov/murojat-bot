@@ -8,7 +8,7 @@ LIST_ID = "901801742315"
 CLICKUP_TASK_URL = f"https://api.clickup.com/api/v2/list/{LIST_ID}/task"
 
 # Telegram bot token
-TELEGRAM_BOT_TOKEN = "7994939883:AAEZ0gnW9AI66K5nHWP83ZrxGw9kirYf2pA"
+TELEGRAM_BOT_TOKEN = "7665812070:AAEqtobfCNQEMxuOTEq3gtrP9MlRaEOXdMg"
 bot = telebot.TeleBot(TELEGRAM_BOT_TOKEN)
 
 # ClickUp maydonlari ID-lari va bo‘limlar ...
